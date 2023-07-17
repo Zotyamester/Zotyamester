@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zotyamester
 - 👀 I’m interested in embedded software development and hardware engineering.
 - 🌱 I’m currently learning computer engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
-- 💞️ I’m looking to collaborate on anything that's close to the metal. Verilog HDL, Assembly, C/C++, Rust, you name it!
+- 💞️ I’m looking to collaborate on anything that's close to the metal. Verilog HDL, Assembly, C/C++, Go, Rust, you name it!
 - 📫 How to reach me => Twitter: [ZoltanSzatmary](https://twitter.com/ZoltanSzatmary)
