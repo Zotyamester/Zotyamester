@@ -20,7 +20,7 @@
 
 ### About Me:
 - 👋 Hi, I’m Zoltán Szatmáry (@Zotyamester)
-- 👀 I’m interested in software engineering (especially embedded and close-to-hardware, bare metal programming).
+- 👀 I’m interested in software engineering (especially in cloud architecture, embedded and close-to-hardware, bare metal programming).
 - 🌱 I’m currently learning Computer Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
 - 📫 How to reach me => Twitter: [ZoltanSzatmary](https://twitter.com/ZoltanSzatmary)
 
