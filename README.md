@@ -20,9 +20,9 @@
 
 ### About Me:
 - 👋 Hi, I’m Zoltán Szatmáry (@Zotyamester)
-- 👀 I’m interested in software engineering (especially in cloud architecture, embedded and close-to-hardware, bare metal programming).
+- 👀 I’m interested in software engineering with a special interest in cloud native computing, Serverless, FaaS, SDN, NFV, 5G mobile networks, and embedded, low-level programming.
 - 🌱 I’m currently learning Computer Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
-- 📫 How to reach me => Twitter: [ZoltanSzatmary](https://twitter.com/ZoltanSzatmary)
+- 📫 How to reach me => X: [ZoltanSzatmary](https://x.com/ZoltanSzatmary)
 
 ### Languages and Tools:
 <div>
