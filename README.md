@@ -19,29 +19,33 @@
 </div>
 
 ### About Me:
-- 👋 Hi, I’m Zoltán Szatmáry (@Zotyamester)
-- 👀 I’m interested in software engineering with a special interest in cloud native computing, Serverless, FaaS, SDN, NFV, 5G mobile networks, and embedded, low-level programming.
-- 🌱 I’m currently learning Computer Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
-- 📫 How to reach me => X: [ZoltanSzatmary](https://x.com/ZoltanSzatmary)
+ - 👋 Hi, I’m Zoltán Szatmáry (@Zotyamester)
+ - 👀 I’m interested in software engineering with a special interest in cloud native computing, Serverless, FaaS, SDN, NFV, 5G mobile networks, and embedded, low-level programming.
+ - 🌱 I’m currently learning Computer Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
+ - 📫 Let's Connect
+   - X: [ZoltanSzatmary](https://x.com/ZoltanSzatmary)
+   - LinkedIn: [Zoltán Szatmáry](https://www.linkedin.com/in/zolt%C3%A1n-szatm%C3%A1ry-346257185/)
 
-### Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-</div>
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,go,python,js,bash&perline=4)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,html,css,jquery#perline=3)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,kubernetes&perline=3)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=postgresql,mysql,MongoDB)
+
+### Operating Systems
+![Operating Systems](https://skillicons.dev/icons?i=windows,linux,bsd,arch,ubuntu,debian&perline=3)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,neovim,git,github,gitlab,githubactions,ansible,markdown,regex,raspberrypi&perline=4)
 
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zotyamester&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
