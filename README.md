@@ -15,14 +15,14 @@
 
   <img src="https://komarev.com/ghpvc/?username=Zotyamester&style=flat-square&color=blue" alt=""/>
 
-  <h1>Hi there! 😀</h1>
+  <h1>Zoltán Szatmáry</h1>
 </div>
 
 ### About Me:
- - 👋 Hi, I’m Zoltán Szatmáry (@Zotyamester)
- - 👀 I’m interested in software engineering with a special interest in cloud native computing, Serverless, FaaS, SDN, NFV, 5G mobile networks, and embedded, low-level programming.
- - 🌱 I’m currently learning Computer Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
- - 📫 Let's Connect
+ - My name is Zoltán Szatmáry [pronounced: /ˈzoltɑːn ˈsɒtmaːri/].
+ - I'm currently studying Computer Engineering at Budapest University of Technology and Economics - Faculty of Electrical Engineering and Informatics.
+ - I have a special interest in cloud native computing, software-defined networking, mobile networks, IT security, operating sytstems and low-level programming.
+ - Contact:
    - X: [ZoltanSzatmary](https://x.com/ZoltanSzatmary)
    - LinkedIn: [Zoltán Szatmáry](https://www.linkedin.com/in/zolt%C3%A1n-szatm%C3%A1ry-346257185/)
 
@@ -30,7 +30,7 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,go,python,js,bash&perline=4)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,go,python,js,java,kotlin,elixir,bash&perline=5)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,html,css,jquery#perline=3)
