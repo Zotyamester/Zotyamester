@@ -24,7 +24,7 @@
  - I have a special interest in cloud native computing, software-defined networking, mobile networks, IT security, operating sytstems and low-level programming.
  - Contact:
    - X: [ZoltanSzatmary](https://x.com/ZoltanSzatmary)
-   - LinkedIn: [Zoltán Szatmáry](https://www.linkedin.com/in/zolt%C3%A1n-szatm%C3%A1ry-346257185/)
+   - LinkedIn: [Zoltán Szatmáry](https://www.linkedin.com/in/zolt%C3%A1n-szatm%C3%A1ry/)
 
 
 ## Skills
