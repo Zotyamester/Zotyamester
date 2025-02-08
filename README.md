@@ -30,10 +30,10 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,go,python,js,java,kotlin,elixir,bash&perline=5)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,go,python,rust,js,ts,java,kotlin,elixir,bash&perline=4)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,html,css,jquery#perline=3)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,svelte,html,css,jquery&perline=3)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,kubernetes&perline=3)
