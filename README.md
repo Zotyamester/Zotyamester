@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/zolt%C3%A1n-szatm%C3%A1ry-346257185/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/@ZoltanSzatmary">
+    <a href="https://www.youtube.com/ZoltanSzatmary">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/ZoltanSzatmary">
